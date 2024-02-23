@@ -13,4 +13,5 @@ Two versions of the data viewer are available:
 - Microsoft Excel format
 - Google Sheets format
 
+![GitHub Logo](https://github.com/marcorexo/US_Employment_Industry_Stats/blob/7ac91d53521c0f754e5e8918bb6b5bd32f67b9a9/maven_US_Stats.PNG)
 
